@@ -1,4 +1,4 @@
-# How to find your co founder - A Project for an interview in Helsinki
+# How to find your co-founder - A Project for an interview in Helsinki
 This is a project I developed for an interview for a company in Helsinki which was very stimulating and I thought it was worth to add to my repo. Below, you will find the presentation I discussed during the interview which exaplains the scenario and how I approached to the problem and which solutions I adopted. Enjoy!
 ![download](https://github.com/agozz/How_to_find_your_co_founder-A_Project_for_an_interview/assets/84788782/7ed03139-47b6-4594-88a9-b0e41d0f2079)
 ![download (1)](https://github.com/agozz/How_to_find_your_co_founder-A_Project_for_an_interview/assets/84788782/49dbd7c0-e23e-4fa8-a9d8-02dc6a8429a5)
